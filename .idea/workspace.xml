@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0715a4a-1bf6-488b-9bed-5f15ebfe7c53" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/.idea/h5FishGame_imooc.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/.idea/workspace.xml" afterPath="$PROJECT_DIR$/h5FishGame_imooc/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/ane.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/baby.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/background.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/collision.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/commonFunctions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/fruit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/mom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/js/wave.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyEye0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyEye1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade13.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade17.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyFade9.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/babyTail7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/background.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigEye0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigEye1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwim7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigSwimBlue7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/bigTail7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/blue.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/dust0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/dust1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/dust2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/dust3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/dust4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/dust5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/dust6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/h5FishGame_imooc/src/fruit.png" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="h5_fishgame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5_fishgame" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0715a4a-1bf6-488b-9bed-5f15ebfe7c53" name="Default" comment="" />
+      <created>1547763262140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547763262140</updated>
+      <workItem from="1547763263356" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

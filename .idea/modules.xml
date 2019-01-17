@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/h5FishGame_imooc.iml" filepath="$PROJECT_DIR$/.idea/h5FishGame_imooc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/h5_fishgame.iml" filepath="$PROJECT_DIR$/.idea/h5_fishgame.iml" />
     </modules>
   </component>
 </project>

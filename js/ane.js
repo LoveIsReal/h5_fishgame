@@ -14,7 +14,7 @@ var aneObj = function () {
     this.endPointX = []
     this.endPointY = []
 }
-aneObj.prototype.num = 45
+aneObj.prototype.num = 50
 aneObj.prototype.init = function () {
     for (var index = 0; index < this.num; index++) {
         this.x[index] = index * 16 + Math.random() * 20
