@@ -14,12 +14,15 @@ var aneObj = function () {
     this.endPointX = []
     this.endPointY = []
 }
-aneObj.prototype.num = 50
+aneObj.prototype.num = 0
 aneObj.prototype.init = function () {
+
+    this.num = parseInt(canWidth / 16)
+
     for (var index = 0; index < this.num; index++) {
         this.x[index] = index * 16 + Math.random() * 20
         this.len[index] = 200 + Math.random() * 50
-        this.amp[index] = Math.random() * 30 + 60
+        this.amp[index] = Math.random() * 30 + 20
         this.endPointX[index] = this.x[index]
         this.endPointY[index] = canHeight - this.len[index]
     }

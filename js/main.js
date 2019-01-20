@@ -1,6 +1,9 @@
 /*
 之所以使用两个canvas，canvas2用来绘制深色背景和海葵和小果实
 canvas1用来画小鱼和分数板
+
+游戏canvas为全屏幕，且应该适应电脑和手机两个设备
+所以我们要根据屏幕宽度计算海葵的数量和果实的数量，达到一个平衡
 * */
 
 var isGameLoopRunning = true
@@ -35,13 +38,19 @@ function game() {
 }
 
 function init() {
+    canWidth = window.innerWidth
+    canHeight = window.innerHeight
+
     can1 = document.getElementById('canvas1')
     can2 = document.getElementById('canvas2')
+    can1.setAttribute("width",canWidth)
+    can1.setAttribute("height", canHeight)
+    can2.setAttribute("width",canWidth)
+    can2.setAttribute("height", canHeight)
     ctx1 = can1.getContext('2d')
     ctx2 = can2.getContext('2d')
     bgPic.src = './src/background.jpg'
-    canWidth = can1.width
-    canHeight = can2.height
+
 
     mx = canWidth * 0.5
     my = canHeight * 0.5

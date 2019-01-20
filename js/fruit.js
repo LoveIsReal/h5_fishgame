@@ -1,14 +1,14 @@
 // 绘制果实类
 // 我们建立一个数组存放所有的果实，比如我们设置30个，果实两种状态【成长中，成熟了】
 // 成熟了的果实就从海葵上向上浮上去，漂浮到界面外就切换它的状态为成长中
-// 且每次绘制都需要判断当前果实数量是否小于15个（小于15个就要生成果实）
+// 且每次绘制都需要判断当前果实数量是否小于池子的一半，比如15个（小于15就要生成果实）
 
 
 /**
  * 果实的游戏规则：
- * 保持屏幕上有15 个果实,那如何让果实一直源源不断的生成的
+ * 保持屏幕上有池子的一半 个果实,那如何让果实一直源源不断的生成的
  * 关键就是born方法，我们要让已经死去的果实重新调用born方法
- * 即在主循环中，我们调用一个monitor方法，不断判断当前果实是否小于15 小于15就将一个alive状态为false的果实
+ * 即在主循环中，我们调用一个monitor方法，不断判断当前果实是否小于池子的一半 小于池子的一半就将一个alive状态为false的果实
  * 变为alive true，这样在接下来的绘制中就会多一个果子可以绘制了
  */
 var fruitObj = function () {
@@ -23,8 +23,11 @@ var fruitObj = function () {
     this.whichAneDoIBorn = []  // 由于果实长大时 跟随ane进行位移，所以要知道这个果实对应哪一个ane
 }
 // 这里的num表示整个果子池子数量
-fruitObj.prototype.num = 30
+fruitObj.prototype.num = 0
 fruitObj.prototype.init = function () {
+
+    this.num = ane.num /2 // 一定要根据海葵的数量制定果实有多少个，让整体更协调
+
     for (var i = 0; i < this.num; i++) {
         this.alive[i] = false
         this.x[i] = 0
@@ -97,9 +100,9 @@ function fruitMonitor(){
     for(var i = 0 ;i < fruit.num; i++){
         if(fruit.alive[i])num++
     }
-    if(num < 15){ // 当前小于15个，就要生成一个果实,
+    if(num < parseInt(fruit.num / 2)){ // 当前小于池子的一半，就要生成一个果实,
         // 这就可能出现生出一个还是小于十五个的情况，但是我们不管，少就生一个
-        // 因为少于15的时候，每一帧都会生一个，直到满足15
+        // 因为少于池子的一半的时候，每一帧都会生一个，直到满足池子的一半
         sendFruit()
         return
     }
